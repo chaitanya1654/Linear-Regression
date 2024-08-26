@@ -25,4 +25,4 @@ jobs:
 
       - name: Run ML program
         run: |
-          python ml_model.py
+          python chaitanya.ipynb
